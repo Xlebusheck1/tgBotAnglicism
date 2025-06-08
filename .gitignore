@@ -1,0 +1,8 @@
+.env
+*.env
+.env*
+secrets.ini
+config.ini
+__pycache__/
+*.log
+*.pyc
